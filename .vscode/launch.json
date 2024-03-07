@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ServerApplication<server_>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.TodoServer.ServerApplication",
+            "projectName": "server_",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
